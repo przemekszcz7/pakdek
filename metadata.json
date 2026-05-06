@@ -1,0 +1,6 @@
+{
+  "name": "Hurtownia Wielobranżowa PakDek",
+  "description": "Profesjonalna hurtownia artykułów higienicznych, biurowych, opakowań jednorazowych i dekoracji imprezowych w Kępnie.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
